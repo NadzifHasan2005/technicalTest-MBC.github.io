@@ -15,3 +15,6 @@ css
 
 - Bagian divisi, header dibuat berwarna biru gradien merah dengan garis bawah di tulisan divisi. MBC terdapat 4 divisi, pada bagian ini dibuat 2 atas dan 2 bagian bawah, dengan font berwarna hitam Border berwarna hitam, tombol berwarna putih Border hitam hover(terdapat shadow berwarna biru, tulisan berwarna biru gradien merah, kalau tombol berubah menjadi warna biru dengan tulisan putih)
 
+
+- Bagian footer, dibuat menjadi dua bagian dimana sebelah kiri terdapat gambar dengan lokasi markas besar MBC dan sebelah kiri terdapat kontak/sosial media, seperti Instagram, LinkedIn, dan email.
+

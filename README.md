@@ -45,3 +45,6 @@ Pada Halaman ini berisikan informasi sosial media dan kontak pesan dan kesan.
 - Maps, untuk mengetahui lokasi Lab. MBC.
 - Form, untuk memberikan keinginan tahun pengunjung website untuk bertanya mengenai MBC, dari divisi hingga prestasi.
 
+
+## 4. Halaman Devloper
+Yang berisikan biodata dari pembuat website.

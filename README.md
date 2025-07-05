@@ -75,17 +75,27 @@ Asset yang dipakai:
 #### File CSS : technicalTest
 css
 - Membuat navigasi dengan gambar MBC sebelah kiri, beranda, divisi, kontak, tentang kami. Dengan font berwarna abu-abu, dengan Hover berwarna biru. Shadow border berwarna hitam supaya kelihatan ketika navigasi berada di background berwarna putih.
+![image](https://github.com/user-attachments/assets/d22a37ac-356f-42bc-b9db-60c45de62e75)
+
 
 - Judul berwarna putih dengan h1 dengan font-size 1.7em,font-weight (tulisan MBC laboratory), lalu bagian bawahnya terdapat tulisan (WeAttackWeProtect). Background berwarna bitu grafien merah.
+![image](https://github.com/user-attachments/assets/daa639a6-08d2-4899-81a2-fdbb9b3bb8cb)
 
 - Tulisan MBC berwarna gradient birtu merah, tulisan selanjutnya hitam biasa.
+![image](https://github.com/user-attachments/assets/384657cd-1d6b-4e1a-b467-d86f80c24b4b)
+
 
 
 - Bagian divisi, header dibuat berwarna biru gradien merah dengan garis bawah di tulisan divisi. MBC terdapat 4 divisi, pada bagian ini dibuat 2 atas dan 2 bagian bawah, dengan font berwarna hitam Border berwarna hitam, tombol berwarna putih Border hitam.
 Hover(terdapat shadow berwarna biru, tulisan berwarna biru gradien merah, kalau tombol berubah menjadi warna biru dengan tulisan putih)
+![image](https://github.com/user-attachments/assets/6de2e477-4908-4364-abf4-ca5bf85e3f9c)
+
+
 
 
 - Bagian footer, dibuat menjadi dua bagian dimana sebelah kiri terdapat gambar dengan lokasi markas besar MBC dan sebelah kiri terdapat kontak/sosial media, seperti Instagram, LinkedIn, dan email.
+![image](https://github.com/user-attachments/assets/45e3caa6-4785-4d5d-bbd8-24107fc4749b)
+
 
 
 ## 2. Halaman Divisi
@@ -97,22 +107,38 @@ Hover(terdapat shadow berwarna biru, tulisan berwarna biru gradien merah, kalau 
 - Keterangan masing-masing divisi
   - *Cybersecurity*
 Judul Cybersecurity dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berwarna hitam. Ditambahkan elemen-elemen tools pada divisi Cybersecurity.
+![image](https://github.com/user-attachments/assets/135178cd-56d5-4dad-ad11-6be89a94c9f8)
+
   - *Big Data*
 Judul Big Data dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berwarna hitam. Ditambahkan elemen-elemen tools pada divisi big data.
+![image](https://github.com/user-attachments/assets/8cd5c477-223c-46f2-8eda-82053121b1fb)
+
   - *Game Technology*
 Judul Game Technology dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berwarna hitam. Ditambahkan elemen-elemen tools pada divisi game technology.
+![image](https://github.com/user-attachments/assets/278fec27-e87f-4d0c-b2a3-6ec6837c680c)
+
   - *Geography Information System*
 Judul Geography Information System dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berwarna hitam. Ditambahkan elemen-elemen tools pada divisi Geography Information System.
+![image](https://github.com/user-attachments/assets/44099225-d851-40d3-8657-3fdc97f80fcf)
+
    
 ## 3.Halaman Kontak
 Pada Halaman ini berisikan informasi sosial media dan kontak pesan dan kesan.
 - Membuat navigasi dengan gambar MBC Sebelah kiri, beranda, divisi, kontak, tentang kami. Dengan font berwarna abu-abu, dengan Hover berwarna biru. Shadow border berwarna hitam supaya kelihatan ketika navigasi berada di background berwarna putih.
 - Tulisan besar yang berwarna biru gradien merah
 - Deskripsi, berwarna hitam
+  ![image](https://github.com/user-attachments/assets/434176b2-8f93-4b3e-ae70-9bbda84ca033)
+
 - Sosial media yang terdiri dari Instagram, LinkedIn, dan Email. Hover dengan shadow berwarna biru kanan dan kiri, dan shadow merah berada box tengah.
+  ![image](https://github.com/user-attachments/assets/55c8ac1e-b8de-43d0-af06-2ecd372d108e)
+
 - Maps, untuk mengetahui lokasi Lab. MBC.
+![image](https://github.com/user-attachments/assets/b13360f0-c52a-4062-bf1f-ed96ed58ab2a)
+
 - Form, untuk memberikan keinginan tahun pengunjung website untuk bertanya mengenai MBC, dari divisi hingga prestasi.
+![image](https://github.com/user-attachments/assets/01d625f8-bb35-4bee-be7a-f9f83097ad93)
 
 
 ## 4. Halaman Devloper
 Yang berisikan biodata dari pembuat website.
+![image](https://github.com/user-attachments/assets/21d09ca7-54ff-441a-8599-de96ce78381b)

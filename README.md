@@ -13,4 +13,4 @@ css
 - Tulisan MBC berwarna gradient birtu merah, tulisan selanjutnya hitam biasa.
 
 
-- Bagian divisi, header dibuat berwarna biru gradien merah dengan garis bawah di tulisan divisi. MBC terdapat 4 divisi, pada bagian ini dibuat 2 atas dan 2 bagian bawah, dengan font berwarna hitam 
+- Bagian divisi, header dibuat berwarna biru gradien merah dengan garis bawah di tulisan divisi. MBC terdapat 4 divisi, pada bagian ini dibuat 2 atas dan 2 bagian bawah, dengan font berwarna hitam Border berwarna hitam, 

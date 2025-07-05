@@ -28,7 +28,13 @@ Hover(terdapat shadow berwarna biru, tulisan berwarna biru gradien merah, kalau 
 
 - Keterangan masing-masing divisi
   - *Cybersecurity*
-Judul cyber security dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berwarna hitam. Ditambahkan elemen-elemen tools pada divisi Cybersecurity
+Judul Cybersecurity dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berwarna hitam. Ditambahkan elemen-elemen tools pada divisi Cybersecurity.
+  - *Big Data*
+Judul Big Data dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berwarna hitam. Ditambahkan elemen-elemen tools pada divisi big data.
+  - *Game Technology *
+Judul Game Technology dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berwarna hitam. Ditambahkan elemen-elemen tools pada divisi game technology.
+  - *Geography Information System*
+Judul Geography Information System dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berwarna hitam. Ditambahkan elemen-elemen tools pada divisi Geography Information System.
    
 
 

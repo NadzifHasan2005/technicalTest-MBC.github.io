@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+* {
+  margin: 0;    
+  box-sizing: border-box;
+}
+body{
+    font-family: "Sansation", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    background-color: rgb(255, 255, 255);
+    margin: 6cm 10cm; 
+}
+
+#nav-mbc{
+    position: fixed;
+    top: 20px; /* agar tetap di atas saat scroll, tapi ada jarak dari atas */
+    left: 50px;
+    right: 50px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+     background-color: rgba(255,255,255);
+    /* backdrop-filter:blur(); */
+    border-radius: 100px;
+    box-sizing: border-box;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+
+    margin: 0 auto;           /* center horizontal */
+    padding: 12px 40px;       /* vertical padding kecil */
+    max-width: 1000px;
+    height: 70px;
+    z-index: 1000;
+
+}
+
+    
+
+#nav-mbc img{
+    width: 30%;
+    height: auto;
+             
+}
+
+#nav-mbc ul{
+    width:100%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1em;
+}
+#nav-mbc li{
+    height: 100%;
+    padding: 0 30;
+
+}
+
+#nav-mbc li a{
+    text-decoration: none;
+    color: black;
+    font-size: 0.8em;
+            
+}
+
+
+#nav-mbc .a-nav-mbc:hover{            
+    color: blue;
+    transition-duration: 0.3s;
+}
+/* @media (width <= 500px){
+    #nav-mbc{
+        margin: 0 auto;           
+        padding: 12px 40px;       
+        max-width: 100%;
+        height: auto;
+        z-index: 1000;
+    }
+    #nav-mbc img{
+        width: 30%;
+        height: auto;
+    }
+    #nav-mbc li{
+        height: 100%;
+        padding: 0 30;
+        font-size: 12px;
+    }
+
+    #nav-mbc li a{
+        text-decoration: none;
+        color: black;
+                
+    }
+
+} */
+
+
+
+
+.header-judul{
+    .header-judul-1 {
+        p{
+            text-align: center;
+            font-size: 3em;
+            font-weight:600;
+            background: linear-gradient(to right, #052A86, #FB1818);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        
+        }
+    }
+    .header-judul-2 {
+        p{
+            font-size: 1.2em;
+            font-weight:200;
+        
+        }
+    }
+    
+}
+
+
+/* .profile{
+
+} */
+
+.profile-img{
+    display: flex;
+    padding-top: 100px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+    img{
+    
+        width: 5cm;
+        border-radius: 12px;
+    }
+}
+
+.profile-deskripsi{
+    padding-top: 100px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    p{
+        font-size: 1.3em;
+        text-align: center;
+    }
+}
+
+
+.infoselanjutnya-header{
+    padding-top: 100px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    p{
+        text-align: center;
+        font-size: 1.2em;
+        font-weight: 400;
+    }
+}
+.infoselanjutnya{
+    display: flex;
+    padding-top: 50px;
+    justify-content: center;
+    align-items: center;
+    gap: 12em;
+    .infoselanjutnya-github img{
+        width: 5em;
+    }
+    .infoselanjutnya-linkedin img{
+        width: 5em;
+    }
+}
+
+
+
+
+#footer{
+    display: flex;
+    padding: 1em;
+    padding-top: 12em;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footer-logo-ket{
+    display: block;
+
+}
+.footer-logo-ket img{
+    width: 30%;
+}
+.footer-sosmed{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.footer-sosmed-sosmed-instagram img{
+    width: 0.8cm;  
+}
+.footer-sosmed-sosmed-linkedin img{
+    width: 0.8cm;   
+}
+.footer-sosmed-sosmed-email img{
+    width: 0.8cm;
+    
+}

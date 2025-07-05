@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+            <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+            <link rel="icon" type="image/x-icon" href="Asset/mbclogo-white.png">
+            <link rel="stylesheet" href="technicalTest-HalamanKontak.css">
+            <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+            <script src="technicalTest.js"></script> 
+            <script src="technicalTest.php"></script>
+            <title>MBC Laboratory</title>
+    </head>
+    <body>
+        <nav id="nav-mbc">
+            <ul class="ul-nav-mbc">
+                <a href="#">
+                    <img class="header-img-mbc"src="Asset/mbclogo-transparant.png" alt="">
+                </a>
+                <li><a class="a-nav-mbc" href="http://localhost/mbc/technicalTest-Halamanutama.html#"><b>Beranda</b></a></li>
+                <li><a class="a-nav-mbc" href="http://localhost/mbc/technicalTest-HalamanDivisi.html#"><b>Divisi</b></a></li>
+                <li><a class="a-nav-mbc" href="http://localhost/mbc/technicalTest-HalamanKontak.html#"><b>Kontak</b></a></li>
+                <li><a class="a-nav-mbc" href="http://localhost/mbc/technicalTest-HalamanDevloper.html#"><b>Tentang Kami</b></a></li>
+                </ul>
+                <div class="menu-icon">
+                    <i class="fa-solid fa-bars"></i>
+                </div>
+        </nav>
+
+
+
+
+
+
+
+
+
+        <div class="header-judul">
+            <div class="header-judul-1">
+                <p>
+                    Hello MBCitizen
+                </p>
+            </div>
+            <div class="header-judul-2">
+                <p>
+                    MBCitizen bisa menanyakan banyak hal dari divisi, penghargaan, kritik saran, dan dan lain-lain. Bisa ditanyakan disini ya...
+                </p>
+            </div>
+        </div>
+
+
+
+
+
+        <section id="sosial-media">
+            <div class="sosial-media-instagram" >
+                <a href="https://www.instagram.com/mbclab/"><img src="Asset/instagram-brands.svg" alt=""></a>
+            </div>
+
+            <div class="sosial-media-linkedin" >
+                <a href="https://www.linkedin.com/company/mbclaboratory/"><img src="Asset/linkedin-brands.svg" alt=""></a>
+            </div>
+                
+            <div class="sosial-media-email" >
+                <a href="mailto:mbclab1234@gmail.com""><img src="Asset/envelope-solid.svg" alt=""></a>
+            </div>
+        </section>
+
+
+        <section id="maps">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5012.3039666714985!2d107.62558207594859!3d-6.969281993031293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e9bc3974981d%3A0x613eec0feec9fcf7!2sTelkom%20University%20Landmark%20Tower%20(TULT)!5e1!3m2!1sen!2sid!4v1751635326382!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </section>
+
+
+
+
+
+        <section class="form-container">
+                <form method="post" name="emailContact" class="form-box" action="technicalTest-HalamanKontak.php">
+                    <div class="form-left">
+                    <div class="input-row">
+                        <label><b>Nama</b> <em>*</em></label>
+                        <input type="text" name="userName" required>
+                    </div>
+                    <div class="input-row">
+                        <label><b>Jurusan</b> <em>*</em></label>
+                        <input type="text" name="usernameJurusan" required>
+                    </div>
+                    <div class="input-row">
+                        <label><b>Email</b> <em>*</em></label>
+                        <input type="email" name="usernameEmail" required>
+                    </div>
+                    </div>
+
+                    <div class="form-right">
+                    <div class="input-row">
+                        <label><b>Subject pertanyaan</b> <em>*</em></label>
+                        <input type="text" name="usernameSubject" required>
+                    </div>
+                    <div class="input-row">
+                        <label><b>Ada yang ditanyakan, krisik, saran</b> <em>*</em></label>
+                        <textarea name="usernameMessage" rows="6" required></textarea>
+                    </div>
+                    </div>
+
+                    <div class="submit-container">
+                    <input type="submit" name="send" value="Submit">
+                    <div class="success">
+                        <strong>Success</strong>
+                    </div>
+                    </div>
+            </form>
+            
+        </section>
+
+    </body>
+</html>

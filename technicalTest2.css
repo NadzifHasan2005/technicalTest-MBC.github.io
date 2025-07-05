@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+body{
+    font-family: "Sansation", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+#nav-mbc{
+    float: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10px;
+    position: fixed;
+    width: 100%;
+    img{
+            width: 4cm;
+             
+        }
+    ul{
+        display: flex;
+        li{
+            padding: 0.5cm;
+            list-style-type: none;
+        }
+
+        a{
+        text-decoration: none;
+        color: black;
+            
+        }
+        a:hover{
+            
+            color: blue;
+            margin: 4px;
+            transition-duration: 0.3s;
+        }
+        
+    }
+   
+    
+}
+
+
+#judul-mbc{
+    justify-content: center;
+    padding: 6cm;
+    background-color: linear-gradient(to right, #052A86 , #FB1818);
+    position: fixed;
+    width: 100%;
+    h1{
+        font-size: 5em;
+        text-align: center;
+        color: white;
+        
+    }
+    p{
+        font-size: 2em;
+        text-align: center;
+        color: white;
+    }
+}

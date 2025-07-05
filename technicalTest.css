@@ -1,0 +1,560 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+* {
+  margin: 0;    
+  box-sizing: border-box;
+}
+body{
+    font-family: "Sansation", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    background-color: rgb(255, 255, 255);
+}
+
+#nav-mbc{
+    position: fixed;
+    top: 20px; /* agar tetap di atas saat scroll, tapi ada jarak dari atas */
+    left: 50px;
+    right: 50px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+     background-color: rgba(255,255,255);
+    /* backdrop-filter:blur(); */
+    border-radius: 100px;
+    box-sizing: border-box;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+
+    margin: 0 auto;           /* center horizontal */
+    padding: 12px 40px;       /* vertical padding kecil */
+    max-width: 1000px;
+    height: 70px;
+    z-index: 1000;
+
+}
+
+    
+
+#nav-mbc img{
+    width: 30%;
+    height: auto;
+             
+}
+
+#nav-mbc ul{
+    width:100%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1em;
+}
+#nav-mbc li{
+    height: 100%;
+    padding: 0 30;
+
+}
+
+#nav-mbc li a{
+    text-decoration: none;
+    color: black;
+    font-size: 0.8em;
+            
+}
+
+
+#nav-mbc .a-nav-mbc:hover{            
+    color: blue;
+    transition-duration: 0.3s;
+}
+/* @media (width <= 500px){
+    #nav-mbc{
+        margin: 0 auto;           
+        padding: 12px 40px;       
+        max-width: 100%;
+        height: auto;
+        z-index: 1000;
+    }
+    #nav-mbc img{
+        width: 30%;
+        height: auto;
+    }
+    #nav-mbc li{
+        height: 100%;
+        padding: 0 30;
+        font-size: 12px;
+    }
+
+    #nav-mbc li a{
+        text-decoration: none;
+        color: black;
+                
+    }
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+#judul-mbc{
+    justify-content: center;
+    align-items: center;
+    padding: 22em;
+    background: linear-gradient(to right,blue,#ca0003);
+    background-size: 400% 400%;
+    animation: gradient-animation 10s ease infinite;
+}
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+#judul-mbc h1{
+    font-size: 1.7em;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-weight:300;
+    animation-name: judulmbc-transisi-keatas-kebawah;
+    animation-duration: 3s;
+        
+}
+#judul-mbc p{
+    padding-top: 2em;
+    text-align: center;
+    font-size: 1.9em;
+    color: white;
+    white-space: nowrap;
+    overflow: hidden;
+    animation-name: judulmbc-transisi-keatas-kebawah;
+    animation-duration: 3s;
+    
+}
+
+
+@keyframes judulmbc-transisi-keatas-kebawah{
+    from { opacity: 0%; }
+    to {opacity: 100%}
+}
+
+/* @media (width <= 300px){
+
+    #judul-mbc {
+        padding: 7em;
+        justify-content:center ;
+    }
+    #judul-mbc h1{
+        justify-items: center;
+        text-align: center;
+        align-items: center;
+        font-size: 2em;
+    }
+    #judul-mbc p{
+        font-size: 1.1em;
+    }
+} */
+
+
+
+
+
+
+
+
+
+
+
+#description-mbc{
+    justify-content: center;
+    padding: 1cm;
+    margin: 2cm;
+}
+#description-mbc span {
+    background: linear-gradient(to right, #052A86, #FB1818);
+    font-weight: 400;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#description-mbc p{
+    text-align:center ;
+    font-size: large;
+    animation-name: description-mbc-transisi-keatas-kebawah;
+}
+@keyframes description-mbc-transisi-keatas-kebawah{
+    from { opacity: 0%; }
+    to {opacity: 100%}
+}
+
+.button-description-mbc{
+    display: flex;
+    justify-content: center;
+    padding-top: 1cm;
+
+}
+.button-description-mbc a{
+    font-weight: 400;
+    text-decoration: none;
+}
+.button-description-mbc button{
+    justify-items: center;
+    padding-left: 12px;
+    box-shadow: #000000;
+    padding: 12px;
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: #255cff;
+    border-width: 2px;
+    background-color: #ffffff;
+    border-radius: 12px;
+}   
+.button-description-mbc button:hover{
+    content: "";
+    box-shadow: 0 12px 16px 0 rgba(67, 98, 255, 0.15),0 17px 50px 0 rgba(0,0,0,0.15);
+    transition: 0.6s;
+    border-radius: 12px;
+    border-style: solid ;
+    border-width: 2px;
+    border-color: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(15, 93, 250);
+    box-shadow: #1e58ec;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#division-mbc{
+    padding: 50px;
+    margin:30px;
+    
+}
+#division-mbc h2{
+    text-align: center;
+    margin: 0 auto;
+    width: fit-content;
+    font-size: xx-large;
+    font-weight: 500;
+    border-bottom: black solid;
+    background: linear-gradient(to right, #052A86, #ff0707);
+    font-weight: 400;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.division-mbc-cyber-bigdata{
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+    
+
+}
+.division-mbc-cyber{
+    border: #000000 solid;
+    border-radius: 12px;
+    border-width: 2px;
+    margin: 1cm;
+    box-sizing: border-box;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    transition: 0.8s;
+}
+.division-mbc-cyber:hover{
+    content: "";
+    box-shadow: 0 5px 15px rgba(41, 77, 255, 0.615);
+    p{
+        background: linear-gradient(to right, #052A86, #ff0707);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+
+
+
+.division-mbc-cyber img{
+    padding: -4px;
+    width: 6cm;
+}
+
+.division-mbc-cyber p{
+    color: li;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.division-mbc-cyber button{
+    display: block;
+    margin: 0px auto;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding: 4.5px;
+    text-align: center;
+
+    font-weight: 400;
+    border: #000000 solid;
+    border-radius: 12px;
+    border-width: 1px;
+    box-sizing: border-box;
+}
+.division-mbc-cyber button:hover{
+    content: "";
+    border-color: blue;
+    background-color: blue;
+    color: #ffffff;
+    transition: 0.5s;
+}
+
+
+
+.division-mbc-bigdata{
+    border: #000000 solid;
+    border-radius: 12px;
+    border-width: 2px;
+    margin: 1cm;
+    box-sizing: border-box;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    transition: 0.8s;
+}
+.division-mbc-bigdata:hover{
+    content: "";
+    transition: 2s;
+    box-shadow: 0 5px 15px rgba(41, 77, 255, 0.615);
+    p{
+        background: linear-gradient(to right, #052A86, #ff0707);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+.division-mbc-bigdata img{
+    width: 6cm;
+}
+.division-mbc-bigdata p{
+    text-align: center;
+    font-weight: bold;
+}
+.division-mbc-bigdata button{
+    display: block;
+    margin: 0px auto;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding: 4.5px;
+    text-align: center;
+
+    font-weight: 400;
+    border: #000000 solid;
+    border-radius: 12px;
+    border-width: 1px;
+    box-sizing: border-box;
+}
+.division-mbc-bigdata button:hover{
+    content: "";
+    border-color: blue;
+    background-color: blue;
+    color: #ffffff;
+    transition: 0.5s;
+}
+
+
+
+.division-mbc-game-gis{
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+}
+.division-mbc-game{
+    border: #000000 solid;
+    border-width: 2px;
+    border-radius: 12px;
+    margin: 1cm;
+    box-sizing: border-box;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    transition: 0.8s;
+}
+.division-mbc-game:hover{
+    content: "";
+    transition: 2s;
+    box-shadow: 0 5px 15px rgba(41, 77, 255, 0.615);
+    p{
+        background: linear-gradient(to right, #052A86, #ff0707);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+.division-mbc-game img{
+    width: 6cm;
+}
+.division-mbc-game p{
+    text-align: center;
+    font-weight: bold;
+}
+.division-mbc-game button{
+    display: block;
+    margin: 0px auto;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding: 4.5px;
+    text-align: center;
+
+    font-weight: 400;
+    border: #000000 solid;
+    border-radius: 12px;
+    border-width: 1px;
+    box-sizing: border-box;
+}
+.division-mbc-game button:hover{
+    content: "";
+    border-color: blue;
+    background-color: blue;
+    color: #ffffff;
+    transition: 0.5s;
+}
+
+.division-mbc-gis{
+    border: #000000 solid;
+    border-radius: 12px;
+    border-width: 2px;
+    margin: 1cm;
+    box-sizing: border-box;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    transition: 0.8s;
+}
+.division-mbc-gis:hover{
+    content: "";
+    transition: 2s;
+    box-shadow: 0 5px 15px rgba(41, 77, 255, 0.615);
+    p{
+        background: linear-gradient(to right, #052A86, #ff0707);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+.division-mbc-gis img{
+    width: 6cm;
+}
+.division-mbc-gis p{
+    text-align: center;
+    font-weight: bold;
+}
+.division-mbc-gis button{
+    display: block;
+    margin: 0px auto;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    padding: 4.5px;
+    text-align: center;
+
+    font-weight: 400;
+    border: #000000 solid;
+    border-radius: 12px;
+    border-width: 1px;
+    box-sizing: border-box;
+}
+.division-mbc-gis button:hover{
+    content: "";
+    border-color: blue;
+    background-color: blue;
+    color: #ffffff;
+    transition: 0.5s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+    display: flex;
+    padding: 1em;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footer-logo-ket{
+    display: block;
+
+}
+.footer-logo-ket img{
+    width: 30%;
+}
+.footer-sosmed{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.footer-sosmed-sosmed-instagram img{
+    width: 0.8cm;  
+}
+.footer-sosmed-sosmed-linkedin img{
+    width: 0.8cm;   
+}
+.footer-sosmed-sosmed-email img{
+    width: 0.8cm;
+    
+}

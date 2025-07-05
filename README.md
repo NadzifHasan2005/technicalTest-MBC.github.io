@@ -1,6 +1,74 @@
 # Technical Test MBC
 
 Saya diberikan tugas untuk membuat website, mengenai MBC. Pertama-tama saya analisis mengenai MBC, yang saya liat mengambil konsep teknologi dengan jaringan dengan warna biru (052A86), merah (FB1818), putih (FFFFFF), hitam (000000) dan jenis font sansatio. Pertama-tama membuat jalan utama
+Asset yang dipakai:
+- Tiap divisi <br>
+![1](https://github.com/user-attachments/assets/33865ccc-d104-4832-bd27-5817981b6aa0)
+![2](https://github.com/user-attachments/assets/63440027-e8d8-4027-9c47-cc9c885f975a)
+![3](https://github.com/user-attachments/assets/0fb1de5c-0a09-49cb-92f7-0fdd78ae9d13)
+![3](https://github.com/user-attachments/assets/40ff06d3-9bf4-4ba1-90e4-355acc5e0657)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+- Cybersecurity <br>
+![Amazon_Web_Services_Logo svg-removebg-preview (1)](https://github.com/user-attachments/assets/cd8534d6-5240-4534-b291-897ac7fd1983)
+![Cloudflare_Logo svg-removebg-preview (1)](https://github.com/user-attachments/assets/3e975493-4375-4236-8e1a-75b58fd8f243)
+![Logo-ubuntu_cof-orange-hex svg-removebg-preview (1)](https://github.com/user-attachments/assets/a0b5327b-6af2-4451-b8ce-d59a681f1e91)
+![what-is-docker-removebg-preview (1)](https://github.com/user-attachments/assets/f1c8f24b-eb40-4eae-a380-0f7a2e946556)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+- Big Data <br>
+![1200px-Tableau_Logo-removebg-preview](https://github.com/user-attachments/assets/205babf3-a62d-4754-a313-1a6a91cc8f09)
+![colab_favicon_256px-removebg-preview](https://github.com/user-attachments/assets/f77601d6-f973-4be3-89ad-207908a94855)
+![python-removebg-preview (1)](https://github.com/user-attachments/assets/b3ab5661-b134-441a-9584-d0ad5bbd9aa3)
+![Scikit_learn_logo_small svg-removebg-preview](https://github.com/user-attachments/assets/58412fef-9736-484d-a2b4-0388d8098235)
+![Tensorflow_logo svg-removebg-preview](https://github.com/user-attachments/assets/2b05b0de-717f-4c20-b5c0-b12413fac2be)
+<br>
+<br>
+<br>
+<br>
+
+- Game Technology <br>
+![bandlab4123](https://github.com/user-attachments/assets/ca262738-eeb8-4d79-b024-6248cfe0df4b)
+![clip-studio-paint-logo-vector](https://github.com/user-attachments/assets/a333ef0d-d9f4-4a8d-8c41-9d183ecf4734)
+![fl_studio-removebg-preview (1)](https://github.com/user-attachments/assets/105705c4-7ff3-43ae-88a1-3a47aed04dc0)
+![gdevelop](https://github.com/user-attachments/assets/7f0e9d01-1a54-492d-b689-2e65b2a50e91)
+![github-removebg-preview](https://github.com/user-attachments/assets/548afe28-b650-4561-bd32-345da8850f44)
+![Procreate-Logo-removebg-preview](https://github.com/user-attachments/assets/3525d4bd-70b4-4317-8915-e1d23b48ff78)
+![unity-removebg-preview](https://github.com/user-attachments/assets/202a0ccb-7c1b-4ee7-b41d-9608c9234c2e)
+![vscode-removebg-preview](https://github.com/user-attachments/assets/b118dc1c-08da-4df6-9377-3432ed6f4066)
+<br>
+<br>
+<br>
+<br>
+- GIS<br>
+![ArcGIS_logo-removebg-preview](https://github.com/user-attachments/assets/61a8f43a-a4e8-41c2-9a70-85d59d94367f)
+![belender-removebg-preview](https://github.com/user-attachments/assets/23af15ea-5785-4d92-bb42-7e667f7b9dcd)
+![figma-removebg-preview](https://github.com/user-attachments/assets/13d411a8-891a-4040-8a8f-fa87a7561e35)
+![QGIS_logo__2017-removebg-preview](https://github.com/user-attachments/assets/8d53e776-c013-4010-a723-def12162ae15)
+![unity-removebg-preview](https://github.com/user-attachments/assets/50916ec3-7265-4052-8a41-da9705395076)
+
+
+
+
+
+
+
+
+
+
+
+
+  
 
 ## 1. Halaman Utama 
 #### File HTML : technicalTest-Halamanitam.html

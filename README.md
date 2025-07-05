@@ -43,5 +43,5 @@ Pada Halaman ini berisikan informasi sosial media dan kontak pesan dan kesan.
 - Deskripsi, berwarna hitam
 - Sosial media yang terdiri dari Instagram, LinkedIn, dan Email. Hover dengan shadow berwarna biru kanan dan kiri, dan shadow merah berada box tengah.
 - Maps, untuk mengetahui lokasi Lab. MBC.
-- Form, untuk 
+- Form, untuk memberikan keinginan tahun pengunjung website untuk bertanya mengenai MBC, dari divisi hingga prestasi.
 

@@ -36,5 +36,12 @@ Judul Game Technology dengan font berwarna biru gradien merah. Deskripsi berwarn
   - *Geography Information System*
 Judul Geography Information System dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berwarna hitam. Ditambahkan elemen-elemen tools pada divisi Geography Information System.
    
-
+## 3.Halaman Kontak
+Pada Halaman ini berisikan informasi sosial media dan kontak pesan dan kesan.
+- Membuat navigasi dengan gambar MBC Sebelah kiri, beranda, divisi, kontak, tentang kami. Dengan font berwarna abu-abu, dengan Hover berwarna biru. Shadow border berwarna hitam supaya kelihatan ketika navigasi berada di background berwarna putih.
+- Tulisan besar yang berwarna biru gradien merah
+- Deskripsi, berwarna hitam
+- Sosial media yang terdiri dari Instagram, LinkedIn, dan Email. Hover dengan shadow berwarna biru kanan dan kiri, dan shadow merah berada box tengah.
+- Maps, untuk mengetahui lokasi Lab. MBC.
+- Form, untuk 
 

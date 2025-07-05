@@ -27,8 +27,8 @@ Hover(terdapat shadow berwarna biru, tulisan berwarna biru gradien merah, kalau 
 - Membuat navigasi dengan gambar MBC Sebelah kiri, beranda, divisi, kontak, tentang kami. Dengan font berwarna abu-abu, dengan Hover berwarna biru. Shadow border berwarna hitam supaya kelihatan ketika navigasi berada di background berwarna putih.
 
 - Keterangan masing-masing divisi
-  - Cybersecurity
-Judul cyber security dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berearna hitam.
+  - *Cybersecurity*
+Judul cyber security dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berwarna hitam. Ditambahkan elemen-elemen tools pada divisi Cybersecurity
    
 
 

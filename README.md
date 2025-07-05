@@ -28,7 +28,7 @@ Hover(terdapat shadow berwarna biru, tulisan berwarna biru gradien merah, kalau 
 
 - Keterangan masing-masing divisi
   - Cybersecurity
-    Judul cyber security dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berearna hitam.
+Judul cyber security dengan font berwarna biru gradien merah. Deskripsi berwarna hitam dengan kaliamy berada di tengah. Terdapat Hover pada Border dengan menimbulkan shadaow berwarna biru, dan Border berearna hitam.
    
 
 
